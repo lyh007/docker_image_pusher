@@ -1,1 +1,4 @@
 xprobe/xinference:v0.12.3
+chatimage/chatchat:0.3.1.2-2024-0720
+xprobe/xinference:v0.12.1
+chatimage/chatchat:0.3.0-2024-0624
