@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-embeddings-inference:1.5
+ubuntu:22.04
