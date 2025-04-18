@@ -1,2 +1,1 @@
-fuhai/jpress:v5.1.0
-mysql:5.7
+emqx/emqx:5.8.0
