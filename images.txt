@@ -1,1 +1,1 @@
-jumpserver/core-base:20250415_032719
+python:3.11-slim-bullseye
