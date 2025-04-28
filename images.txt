@@ -1,1 +1,1 @@
-emqx/emqx:5.8.0
+jumpserver/core-base:20250415_032719
