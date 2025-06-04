@@ -1,1 +1,2 @@
-jumpserver/jms_all:v4.9.0
+mysql:8.0
+semaphoreui/semaphore:v2.14.12
