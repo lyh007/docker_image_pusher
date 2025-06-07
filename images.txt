@@ -1,2 +1,1 @@
-mysql:8.0
-semaphoreui/semaphore:v2.14.12
+redis:6.2-alpine
