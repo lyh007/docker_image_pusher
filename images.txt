@@ -1,3 +1,1 @@
-apache/hertzbeat:1.7.3
-victoriametrics/victoria-metrics:v1.95.1
-mariadb:11.7
+postgres:15
