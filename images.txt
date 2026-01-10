@@ -1,1 +1,2 @@
-mysql:8.0.44
+jaegertracing/all-in-one:1.54
+otel/opentelemetry-collector-contrib:0.96.0
