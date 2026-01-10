@@ -1,2 +1,2 @@
-jaegertracing/all-in-one:1.54
-otel/opentelemetry-collector-contrib:0.96.0
+jaegertracing/all-in-one:1.76.0
+otel/opentelemetry-collector-contrib:0.143.1
