@@ -1,2 +1,2 @@
-hslr/sun-panel:1.8.1
-ghcr.io/getarcaneapp/arcane:latest
+hanchuanchuan/goinception:v1.3.0
+hhyo/archery:v1.13.0
