@@ -1,3 +1,1 @@
-elasticsearch:8.19.10
-logstash:8.19.10
-kibana:8.19.10
+jumpserver/jms_all:v4.10.12
