@@ -1,2 +1,3 @@
-hanchuanchuan/goinception:v1.3.0
-hhyo/archery:v1.13.0
+elasticsearch:8.19.10
+logstash:8.19.10
+kibana:8.19.10
