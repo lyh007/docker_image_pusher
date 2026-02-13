@@ -41,6 +41,10 @@ jobs:
 
     - name: Restart docker
       run: sudo service docker restart
+    - name: Clean up Docker
+      run: |
+        docker system prune -af
+        docker volume prune -f
 
     - name: Free up disk space complete
       run: |
