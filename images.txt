@@ -1,2 +1,1 @@
-dinkydocker/dinky-standalone-server:1.2.5-flink1.20
-
+apache/dolphinscheduler-standalone-server:3.4.0
