@@ -1,1 +1,2 @@
-jumpserver/jms_all:v4.10.12
+apache/dolphinscheduler-standalone-server:3.4.0
+dinkydocker/dinky-standalone-server:1.2.5-flink1.20
