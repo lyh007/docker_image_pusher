@@ -1,1 +1,1 @@
-redis:8.2.4
+flink:1.20.3-scala_2.12-java8
