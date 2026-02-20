@@ -1,1 +1,2 @@
-flink:1.20.3-scala_2.12-java8
+apache/doris:fe-4.0.3
+apache/doris:be-4.0.3
