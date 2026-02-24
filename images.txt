@@ -1,2 +1,1 @@
-apache/doris:fe-4.0.3
-apache/doris:be-4.0.3
+ubuntu:22.04
