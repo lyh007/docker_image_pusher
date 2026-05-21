@@ -1,1 +1,1 @@
-ubuntu:22.04
+mouday/domain-admin:v1.6.76
