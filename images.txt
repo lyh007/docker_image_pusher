@@ -1,1 +1,2 @@
-rabbitmq:4.3-management
+golang:1
+gcr.io/distroless/cc-debian12:nonroot
